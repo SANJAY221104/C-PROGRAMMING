@@ -16,7 +16,7 @@ int main(){
     printf("%.3lf",d);
 }
 ```
-##define & const assign
+#define & const assign
 ```
 #include<stdio.h>
 #define hundo 100
