@@ -63,10 +63,25 @@ int main() {
     
     int f = 5;
     int m = 5;
-    float avg1 = (a+b)/2;
-    float avg2 = (float)(a+b)/2;
+    float avg1 = (f+m)/2;
+    float avg2 = (float)(f+m)/2;
     printf("\navg with and without casting\n");
     printf("%.2f\n%.2f",avg1,avg2);
 }
 
+```
+#arithemetic operators
+```
+#include<stdio.h>
+int main(){
+    int a = 10;
+    int b = 20;
+
+    printf("%d\n",a+b);
+    printf("%d\n",a-b);
+    printf("%d\n",a*b);
+    printf("%.9f\n",(float)a/b);
+    printf("%d",a%b);
+
+}
 ```
