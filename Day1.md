@@ -1,3 +1,6 @@
+##DataTypes
+
+```
 #include<stdio.h>
 #include<string.h>
 int main(){
@@ -12,3 +15,4 @@ int main(){
     printf("%s\n",c);
     printf("%.3lf",d);
 }
+```
