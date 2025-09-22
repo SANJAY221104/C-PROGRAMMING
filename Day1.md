@@ -1,4 +1,4 @@
-##DataTypes
+#DataTypes
 
 ```
 #include<stdio.h>
