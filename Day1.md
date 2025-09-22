@@ -16,3 +16,14 @@ int main(){
     printf("%.3lf",d);
 }
 ```
+##define & const assign
+```
+#include<stdio.h>
+#define hundo 100
+int main(){
+    const int a = 50;
+    
+    printf("%d\n",a);
+    printf("%d",hundo);
+}
+```
